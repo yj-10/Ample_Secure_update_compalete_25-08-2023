@@ -37,7 +37,7 @@ function About() {
       <div className="div_About_container">
         <img src={bgImg} className="w-100 img-fluid" alt="no-img" />
         <div className="About_headers">
-          <h1>About Our Vision</h1>
+          <h1>About Us Our Vision</h1>
           <p className="text-capitalize ">
             At Bhupati Risk Mitigation Services Pvt. Ltd, we understand that protecting your assets and
             ensuring your safety is a top priority

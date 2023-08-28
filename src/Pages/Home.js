@@ -362,6 +362,7 @@ peace of mind.
               <Col sm="12" md="12" lg="8">
                 <div className="Integrity_right_side">
                   <h2>Integrity</h2>
+                  
                   <p className="text-capitalize">
                     Profile verification is a critical service that Bhupati Risk
                     Mitigation Services Pvt. Ltd. (BRMS) provides to its

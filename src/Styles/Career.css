@@ -147,8 +147,8 @@
   overflow: hidden;
 }
 .div_Ourkey_box .div_ourkey_occupation {
-  display: grid;
-  place-items: center;
+  /* display: grid; */
+  /* place-items: center; */
 }
 .div_Ourkey_box .div_ourkey_occupation h2 {
   /* color: rgba(36, 107, 165, 1); */
